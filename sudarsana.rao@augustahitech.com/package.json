@@ -1,0 +1,16 @@
+{
+  "name": "d9240095-6ecf-42f8-b6d9-122c63ef50bd",
+  "version": "1.0.0",
+  "description": "Auto-generated Playwright test suite by TestQ",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:ui": "npx playwright test --ui",
+    "test:report": "npx playwright show-report"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^20.0.0"
+  }
+}
